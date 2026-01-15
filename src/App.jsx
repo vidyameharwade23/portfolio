@@ -143,7 +143,7 @@ function App() {
             <div className="skills-list">
               {['Python', 'Java', 'C Programming', 'MySQL', 'MongoDB', 'DBMS', 'Node.js', 'Flutter', 'Linux'].map(skill => (
                 <div key={skill} className="skill-item">{skill}</div>
-              ))}  
+              ))}
             </div>
           </div>
           <div className="skill-category">
